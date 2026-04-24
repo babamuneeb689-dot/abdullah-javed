@@ -1,0 +1,12 @@
+# Hide your private API key
+.env
+
+# Hide Python internal cache files
+__pycache__/
+*.pyc
+
+# Hide any old local history folders
+mobile_sessions/
+
+# Hide Streamlit local settings
+.streamlit/
